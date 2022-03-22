@@ -1,5 +1,7 @@
 <p align="center" style="background:yellow">
-Olá, seja bem-vindo ao meu perfil! 👋 Hi, welcome to my profile!<img src="https://acegif.com/wp-content/gifs/ola-60.gif"
+Olá, seja bem-vindo ao meu perfil! 👋
+   Hi, welcome to my profile!
+  <img src="https://acegif.com/wp-content/gifs/ola-60.gif"
 </p>
 <div align="center">
 <a href="https://github.com/lisaap1412">
