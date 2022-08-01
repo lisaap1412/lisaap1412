@@ -16,11 +16,3 @@ Olá, seja bem-vindo ao meu perfil! 👋
 <img height="180em" src="https://github-profile-trophy.vercel.app/?username=lisaap1412&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
 
 </a> 
-</a>
-</a>
-
-<div align="center">
-   
-  ![Snake animation](https://github.com/lisaap1412/lisaap1412/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
